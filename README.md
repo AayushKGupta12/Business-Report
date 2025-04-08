@@ -39,8 +39,7 @@ The task involved:
 
 ## 📷 Sample Visuals
 
-_📍 TO ACCESS THE FULL ANALYSIS, PLEASE CHECK THE UPLOADED COLLAB
-
+_📍 TO ACCESS THE FULL ANALYSIS, PLEASE CHECK _JAR_Business_Analyst_Internship (5).ipynb_
   ![image](https://github.com/user-attachments/assets/583ab931-5bcb-422d-a455-4e11c8af24b4)
 
   
